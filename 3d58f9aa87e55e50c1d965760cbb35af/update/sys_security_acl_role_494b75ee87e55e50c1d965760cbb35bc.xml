@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>sathyaprabu.sivakuma@snc</sys_created_by>
+        <sys_created_on>2024-11-01 17:36:23</sys_created_on>
+        <sys_id>494b75ee87e55e50c1d965760cbb35bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_cs7731421_child_2.x_snc_cs7731421.child_2_user</sys_name>
+        <sys_package display_value="CS7731421" source="x_snc_cs7731421">3d58f9aa87e55e50c1d965760cbb35af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CS7731421">3d58f9aa87e55e50c1d965760cbb35af</sys_scope>
+        <sys_security_acl display_value="x_snc_cs7731421_child_2">094b75ee87e55e50c1d965760cbb35b8</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_494b75ee87e55e50c1d965760cbb35bc</sys_update_name>
+        <sys_updated_by>sathyaprabu.sivakuma@snc</sys_updated_by>
+        <sys_updated_on>2024-11-01 17:36:23</sys_updated_on>
+        <sys_user_role display_value="x_snc_cs7731421.child_2_user" name="x_snc_cs7731421.child_2_user">054b35ee87e55e50c1d965760cbb35eb</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
