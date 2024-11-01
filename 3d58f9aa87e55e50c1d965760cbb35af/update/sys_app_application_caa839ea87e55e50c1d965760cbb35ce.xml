@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Parent Child Inheritance Test</description>
+        <device_type>browser</device_type>
+        <hint>Parent Child Inheritance Test</hint>
+        <name/>
+        <order/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>sathyaprabu.sivakuma@snc</sys_created_by>
+        <sys_created_on>2024-11-01 17:24:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>caa839ea87e55e50c1d965760cbb35ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CS7731421</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CS7731421" source="x_snc_cs7731421">3d58f9aa87e55e50c1d965760cbb35af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CS7731421">3d58f9aa87e55e50c1d965760cbb35af</sys_scope>
+        <sys_update_name>sys_app_application_caa839ea87e55e50c1d965760cbb35ce</sys_update_name>
+        <sys_updated_by>sathyaprabu.sivakuma@snc</sys_updated_by>
+        <sys_updated_on>2024-11-01 17:24:59</sys_updated_on>
+        <title>CS7731421</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
