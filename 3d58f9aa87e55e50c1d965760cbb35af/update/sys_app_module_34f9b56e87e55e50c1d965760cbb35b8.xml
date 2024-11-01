@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Child 1">7cf9b56e87e55e50c1d965760cbb35b4</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Child 1s</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_cs7731421_child_1</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_snc_cs7731421.child_1_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>sathyaprabu.sivakuma@snc</sys_created_by>
+        <sys_created_on>2024-11-01 17:30:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>34f9b56e87e55e50c1d965760cbb35b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Child 1s</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CS7731421" source="x_snc_cs7731421">3d58f9aa87e55e50c1d965760cbb35af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CS7731421">3d58f9aa87e55e50c1d965760cbb35af</sys_scope>
+        <sys_update_name>sys_app_module_34f9b56e87e55e50c1d965760cbb35b8</sys_update_name>
+        <sys_updated_by>sathyaprabu.sivakuma@snc</sys_updated_by>
+        <sys_updated_on>2024-11-01 17:30:38</sys_updated_on>
+        <timeline_page/>
+        <title>Child 1s</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

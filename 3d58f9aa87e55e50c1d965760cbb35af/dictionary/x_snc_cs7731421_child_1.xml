@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="81d9fd2e87e55e50c1d965760cbb351b" extends="x_snc_cs7731421_parent_1" label="Child 1" max_length="40" name="x_snc_cs7731421_child_1" type="collection"/>
+</database>
