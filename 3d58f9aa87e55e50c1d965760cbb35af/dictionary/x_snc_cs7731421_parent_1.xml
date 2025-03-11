@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="6388f5ea87e55e50c1d965760cbb359f" label="Parent 1" max_length="40" name="x_snc_cs7731421_parent_1" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Emp Name" max_length="40" name="emp_name" type="string"/>
-        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <element label="ñnderung" max_length="40" name="nnderung" type="string"/>
         <element label="Emp Number" max_length="40" name="emp_number" type="integer"/>
         <index name="index">
             <element name="sys_class_name"/>
